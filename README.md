@@ -178,7 +178,6 @@ VARIABLE
 
 ## Транслятор
 
-
 Командной строки: `translator.py <input_file> <target_file>"`
 
 
